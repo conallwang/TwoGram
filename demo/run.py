@@ -168,7 +168,7 @@ def printUsage():
     选项使用说明
     :return: None
     """
-    print('''usage: run.py -p <pinyin> input 'exit' to quit p model
+    print('''usage: run.py -i <pinyin> input 'exit' to quit p model
        run.py --infile=<inputfile> --outfile=<outputfile>''')
 
 
